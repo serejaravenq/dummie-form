@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "RobotoRegular";
+    src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+    src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+    url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: #868585;
+	background: #fdfcfb;
+	font-weight: normal;
+}
+img{
+	max-width:100%;
+	height: auto;
+}
+ht1ml{
+	height:100%;
+    background:url('../img/main-bg.jpg') center top no-repeat;
+    background-size:100% 100%;
+}
+.prdota{
+	width: 500px;
+	height: 200px;
+}
+
+.prodota{
+	background-image:url(../img/33.png);
+	min-height: 500px;
+}
+body{
+	background-image: url(../img/main-bg.jpg);
+	background-repeat: repeat-x;
+	
+	
+	background-size: 100% auto;
+	
+	
+}
+label {
+    display: block;
+    font-size: 24px;
+    color: #fff;
+    font-family: "RobotoRegular";
+    margin-bottom: 18px;
+    margin-top: 30px;
+}
+img{
+	width:30%;
+}
+.form-wrapper{
+	    width: 500px;
+    text-align: center;
+    margin: 10% auto;
+}
+input{
+	width: 500px;
+    height: 70px;
+    opacity: 0.6;
+    border-radius: 5px;
+}
