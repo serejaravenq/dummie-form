@@ -67,7 +67,7 @@ label {
 }
 img{
 	width:100%;
-	max-width:200px;
+	max-width:195px;
 	padding-bottom: 8%;
 	padding-left: 16%;
 }
@@ -100,7 +100,7 @@ button{
     border: none;
     opacity: 0.9;
     text-transform: uppercase;
-    padding: 15px;
+    padding: 4%;
     border-radius: 5px;
     color: #fff;
 }
