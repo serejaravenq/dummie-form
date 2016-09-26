@@ -49,7 +49,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 0%;
-	
+    padding:3% 0 0;
+	margin:0;
 	
 	
 	
@@ -60,23 +61,26 @@ label {
     font-size: 24px;
     color: #fff;
     
-    margin-bottom: 18px;
-    margin-top: 30px;
+    margin-bottom: 5%;
+    margin-top: 8%;
     text-align:left;
 }
 img{
 	width:100%;
-	max-width:208px;
+	max-width:200px;
+	padding-bottom: 8%;
+	padding-left: 16%;
 }
 .form-wrapper{
-	    width: 500px;
+	   
+	   width:100%;
     text-align: center;
-   padding: 10% 0;
+   
    margin: 0 auto;
 }
 input{
 	width: 100%;
-    height: 70px;
+   padding: 7% 0;
     opacity: 0.6;
     border-radius: 5px;
    	
@@ -84,11 +88,12 @@ input{
 form{
 	width: 100%;
 	max-width:377px;
-	
+	margin: 0 auto;
+	padding: 15px;
 }
 button{
 	width: 100%;
-    margin: 25px auto 0;
+    margin: 6% auto 0;
     max-width: 200px;
     font-size: 24px;
     background-color: #1bb566;
